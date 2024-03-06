@@ -1,1 +1,6 @@
-
+.navbar {
+  padding: 40px;
+}
+.nav-item {
+  font-size: 13px;
+}
