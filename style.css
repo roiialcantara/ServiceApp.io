@@ -1,3 +1,8 @@
+* {
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+}
+
 .navbar {
   padding: 40px;
   background-color: #141010;
@@ -6,4 +11,19 @@
 }
 .nav-item {
   font-size: 13px;
+}
+
+.img-fluid {
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+}
+
+#services {
+  background-image: url("src/Room.webp");
+  background-size: cover;
+  padding-top: 80px;
+  padding-bottom: 290px;
+  color: white;
 }
