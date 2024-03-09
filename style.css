@@ -32,8 +32,20 @@
 
 /* SearchBar Start*/
 .search-container {
-  background-color: #141010;
-  padding-top: 25px;
+  background-color: #b3a795;
+  padding-top: 10px;
+  padding-bottom: 10px;
   margin-bottom: -10px;
+  padding-left: 200px;
+}
+.bi {
+  position: relative;
+  top: 50px;
+  left: 150px;
+  width: 30px;
+}
+.form-control-lg {
+  background-color: #b3a795;
+  color: black;
 }
 /* SearchBar End*/
