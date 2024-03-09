@@ -33,10 +33,3 @@
 /* SearchBar Start*/
 
 /* SearchBar End*/
-.search-bar .container-sm {
-  display: inline-block;
-  position: relative;
-  padding-top: 20px;
-  padding-bottom: 20px;
-  margin-bottom: -10px;
-}
