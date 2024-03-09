@@ -31,5 +31,9 @@
 /* NavBar End*/
 
 /* SearchBar Start*/
-
+.search-container {
+  background-color: #141010;
+  padding-top: 25px;
+  margin-bottom: -10px;
+}
 /* SearchBar End*/
