@@ -2,7 +2,7 @@
   font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
     "Lucida Sans", Arial, sans-serif;
 }
-
+/* NavBar Start*/
 .navbar {
   padding: 40px;
   background-color: #141010;
@@ -27,4 +27,16 @@
   padding-top: 320px;
   padding-bottom: 10px;
   color: white;
+}
+/* NavBar End*/
+
+/* SearchBar Start*/
+
+/* SearchBar End*/
+.search-bar .container-sm {
+  display: inline-block;
+  position: inherit;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  margin-bottom: -10px;
 }
