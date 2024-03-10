@@ -94,7 +94,7 @@
   overflow: hidden;
 }
 #decorguidance img {
-  height: 500px;
+  height: 450px;
   border-radius: 25px;
   border-style: solid;
 }
@@ -103,5 +103,9 @@
 }
 #decorguidance .doghouse {
   width: 510px;
+  margin-left: 50px;
+}
+.bedroom {
+  margin-left: 50px;
 }
 /* Decoration Guidance End*/
