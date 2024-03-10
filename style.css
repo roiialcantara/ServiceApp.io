@@ -53,5 +53,8 @@
 /* SearchBar End*/
 
 /* Marketing Plan Start*/
-
+#marketingplan .img-fluid {
+  height: 500px;
+  width: 1000px;
+}
 /* Marketing Plan End*/
