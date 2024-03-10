@@ -112,6 +112,25 @@
 
 /* Intentional Layout Start*/
 #layout {
-  background-color: #cdc2ae;
+  background-color: #e7dfcf;
+  overflow: hidden;
+}
+#layout img {
+  height: 450px;
+  border-radius: 25px;
+  border-style: solid;
+}
+.diningroom {
+  width: 400px;
+  margin-left: 50px;
+}
+.interior {
+  width: 800px;
+}
+.kitchen {
+  margin-left: 50px;
+}
+.room {
+  width: 505px;
 }
 /* Intentional Layout End*/
