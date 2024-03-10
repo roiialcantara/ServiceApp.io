@@ -62,4 +62,7 @@
   border-radius: 25px;
   border-style: groove;
 }
+.card-body {
+  height: 350px;
+}
 /* Marketing Plan End*/
