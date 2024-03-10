@@ -72,13 +72,13 @@
   background-color: #faf3f0;
   padding-top: 50px;
   margin-top: -500px;
+  overflow-x: hidden;
 }
 #staging .img-fluid {
   position: relative;
   margin-top: 50px;
   right: 200px;
   height: 400px;
-  overflow-x: hidden;
   border-radius: 25px;
   border-style: groove;
   margin-bottom: 100px;
@@ -88,3 +88,20 @@
   margin-bottom: 20px;
 }
 /* Staging Expertise End */
+
+/* Decoration Guidance Start*/
+#decorguidance {
+  overflow: hidden;
+}
+#decorguidance img {
+  height: 500px;
+  border-radius: 25px;
+  border-style: solid;
+}
+#decorguidance .drawer {
+  width: 500px;
+}
+#decorguidance .doghouse {
+  width: 510px;
+}
+/* Decoration Guidance End*/
