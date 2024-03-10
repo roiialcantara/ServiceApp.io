@@ -109,3 +109,9 @@
   margin-left: 50px;
 }
 /* Decoration Guidance End*/
+
+/* Intentional Layout Start*/
+#layout {
+  background-color: #cdc2ae;
+}
+/* Intentional Layout End*/
