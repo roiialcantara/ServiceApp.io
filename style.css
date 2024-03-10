@@ -53,8 +53,13 @@
 /* SearchBar End*/
 
 /* Marketing Plan Start*/
-#marketingplan .img-fluid {
-  height: 500px;
-  width: 1000px;
+.img-fluid {
+  position: relative;
+  top: -565px;
+  left: 500px;
+  height: 517px;
+  overflow-x: hidden;
+  border-radius: 25px;
+  border-style: groove;
 }
 /* Marketing Plan End*/
