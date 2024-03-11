@@ -140,3 +140,12 @@
   height: 10px;
 }
 /* Selling Process End*/
+
+/* Buying Process Start*/
+#buying {
+  background-color: #f0ece2;
+}
+#buying .card {
+  background-color: #f0ece2;
+}
+/* Buying Process End*/
