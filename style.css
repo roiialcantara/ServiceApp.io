@@ -149,3 +149,11 @@
   background-color: #f0ece2;
 }
 /* Buying Process End*/
+
+/* Real Estate Success Start*/
+#success .img-fluid {
+  position: relative;
+  right: 130px;
+  border-radius: 40px;
+}
+/* Real Estate Success End*/
