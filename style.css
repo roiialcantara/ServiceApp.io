@@ -166,3 +166,12 @@
   margin-left: 80px;
 }
 /* Strategy Summary End*/
+
+/* Partners Start*/
+#partners .img-fluid {
+  position: relative;
+  border-radius: 40px;
+  height: 650px;
+  right: 100px;
+}
+/* Partners End*/
