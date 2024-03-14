@@ -180,6 +180,7 @@
 #market{
   overflow: hidden;
   background-color: #402a23;
+  color: white;
 }
 #market .img-fluid{
   height: 90px;
