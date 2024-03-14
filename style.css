@@ -179,6 +179,7 @@
 /* Market Start*/
 #market{
   overflow: hidden;
+  background-color: #402a23;
 }
 #market .img-fluid{
   height: 90px;
