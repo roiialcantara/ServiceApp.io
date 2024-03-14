@@ -180,4 +180,22 @@
 #market{
   overflow: hidden;
 }
+#market .img-fluid{
+  height: 90px;
+}
+#market .trulia{
+  height: 50px;
+}
+#market .realtor{
+  height: 100px;
+}
+#market .zillow{
+  height: 100px;
+}
+#market .card{
+  height: 400px;
+}
+#market .card{
+  height: 430px;
+}
 /* Market End*/
