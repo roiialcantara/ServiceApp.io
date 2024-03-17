@@ -217,6 +217,11 @@
 
 /* Global Start*/
 #global{
-  background-color: #854836;
+  background-color: #7b3c3c;
+  color: white;
+}
+#global .img-fluid{
+  padding-bottom: 50px;
+  border-radius: 120px;
 }
 /* Global End*/
