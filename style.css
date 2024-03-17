@@ -207,6 +207,10 @@
   height: 180px;
 }
 #luxury .card .card-body{
-  margin-bottom: -150px;
+  margin-bottom: -190px;
+}
+#luxury .mt-4{
+  padding-right: 150px;
+  padding-left: 150px;
 }
 /* Luxury End*/
