@@ -244,3 +244,25 @@
   width: 160px;
 }
 /* Global End*/
+
+/* Work With Us Start*/
+#workwithus{
+  background-image: linear-gradient(rgba(0, 0, 0, 0.5),
+                       rgba(0, 0, 0, 0.5)),url("src/interiorx.jpg");
+  background-size: cover;
+  opacity: 100%;
+  margin-top: -50px;
+  padding-bottom: 200px;
+  color: white;
+}
+#workwithus p{
+  font-size: 20px;
+  margin-top: 20px;
+  padding-left: 340px;
+  padding-right: 340px;
+}
+.worhwithus-header{
+  margin-top: 300px;
+  font-size: 50px;
+}
+/* Work With Us End*/
