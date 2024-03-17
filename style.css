@@ -202,8 +202,11 @@
 }
 /* Market End*/
 
-/* Partners Start*/
+/* Luxury Start*/
 #luxury .LREC {
   height: 180px;
 }
-/* Partners End*/
+#luxury .card .card-body{
+  margin-bottom: -150px;
+}
+/* Luxury End*/
