@@ -262,10 +262,10 @@
   padding-right: 340px;
 }
 .worhwithus-header{
-  margin-top: 300px;
+  margin-top: 180px;
   font-size: 50px;
 }
-.btn{
+#workwithus .btn{
   height: 65px;
   width: 200px;
   font-size: 20px;
